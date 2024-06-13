@@ -32,7 +32,7 @@ class _COUNTRIESLISTState extends State<COUNTRIESLIST> {
                 },
                 decoration: InputDecoration(
                     contentPadding: EdgeInsets.symmetric(horizontal: 20),
-                    hintText: "search with countrys",
+                    hintText: "search with countryss",
                     border: OutlineInputBorder(
                       borderRadius: BorderRadius.circular(50.0),
                     )),
